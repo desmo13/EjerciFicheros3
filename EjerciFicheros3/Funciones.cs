@@ -36,7 +36,7 @@ namespace EjerciFicheros3
                     {
                         if (alumno[max].nota2Evaluacion == 0)
                         {
-
+                            d
                         }
                     }
                 }
